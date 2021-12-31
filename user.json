@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1275,
+        "url": "http://api.larntech.net/users/1275/",
+        "username": "1234",
+        "first_name": "first_name",
+        "last_name": "last_name",
+        "email": "abcd@gmail.com",
+        "is_active": true,
+        "date_joined": "2021-12-30 08:36:22",
+        "last_login": null
+    },
+    {
+        "id": 1274,
+        "url": "http://api.larntech.net/users/1274/",
+        "username": "mah",
+        "first_name": "first_name",
+        "last_name": "last_name",
+        "email": "mkkalamkar5288@gmail.com",
+        "is_active": true,
+        "date_joined": "2021-12-30 07:01:48",
+        "last_login": null
+    },
+    {
+        "id": 1273,
+        "url": "http://api.larntech.net/users/1273/",
+        "username": "mahi",
+        "first_name": "first_name",
+        "last_name": "last_name",
+        "email": "mkkalamkar5288@gmail.com",
+        "is_active": true,
+        "date_joined": "2021-12-30 06:42:39",
+        "last_login": null
+    }
+  ]
